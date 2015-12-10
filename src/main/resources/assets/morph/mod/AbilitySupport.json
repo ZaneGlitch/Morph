@@ -1,4 +1,11 @@
 {
+  "thehippomaster.MutantCreatures.MutantZombie": [
+  	"hostile",
+  	"swim",
+	"poisonResistance",
+  	"fallNegate",
+    	"fly|false"
+  ]
   "am2.bosses.EntityAirGuardian": [
     "hostile",
     "fly|false"
